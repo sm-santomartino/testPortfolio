@@ -24,7 +24,7 @@ disqusShortname = ""
 
 # Name of Academia theme folder in `themes/`.
 # previously 'academia-hugo' - but I renamed the folder 'portfolio' so this must match
-theme = "academia-hugo"
+theme = "academia-hugo-master"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
